@@ -11,4 +11,10 @@ Speed me up is a wireframe kit thought to speed you up during the creative proce
   
 <br>
 
+## Future updates:
+  - Desktop templates
+  - Mobile templates
+    
+<br>
+
 #### 🖌️ Now go and let your creativity go wild!
